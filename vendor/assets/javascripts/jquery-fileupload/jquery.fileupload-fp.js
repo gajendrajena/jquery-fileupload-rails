@@ -18,7 +18,7 @@
         // Register as an anonymous AMD module:
         define([
             'jquery',
-            'load-image',
+            './load-image',
             'canvas-to-blob',
             './jquery.fileupload'
         ], factory);
