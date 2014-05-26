@@ -1,0 +1,9 @@
+//=require jquery-fileupload/jquery.ui.widget
+//=require jquery-fileupload/load-image
+//=require jquery-fileupload/canvas-to-blob
+//=require jquery-fileupload/tmpl
+//=require jquery-fileupload/jquery.iframe-transport
+//=require jquery-fileupload/jquery.fileupload
+//=require jquery-fileupload/jquery.fileupload-fp
+//=require jquery-fileupload/jquery.fileupload-ui
+//=require jquery-fileupload/locale
